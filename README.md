@@ -1,4 +1,4 @@
-# Mate-Flag-Icons
+# Mate-Lanuadges-Flags
 Language flags for MATE Desktop. Checked with Linux Mint 19.1
 <br>
 
@@ -17,3 +17,7 @@ Switch key “show-flags” from "false" to "true"
 If you want disable it set back to false!
 <br><br>
 PROFIT!!!!
+<br><br>
+# Support
+If you check on other Linux-based OS, please report issue with header "Confirmed on ...".<br>
+Example: "Confirmed on Debian 9.5" and this OS will added to Readme.md.
