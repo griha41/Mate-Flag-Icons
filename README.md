@@ -8,7 +8,7 @@ Language flags for MATE Desktop. Checked with Linux Mint 19.1.
   - For user-only: ~/icons
  
  GUI-way:
-  1. Then run dconf-editor (or install it and then run it)
+  1. Run dconf-editor (or install it 'sudo apt install dconf-editor' and then run it)
   2. Then go to section: org->mate->desktop->peripherals->keyboard->indicatorn
   3. Switch key “show-flags” from "false" to "true"
 
