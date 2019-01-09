@@ -14,7 +14,8 @@ Language flags for MATE Desktop. Checked with Linux Mint 19.1.
 
  Terminal:
    - gsettings set org.mate.peripherals-keyboard-xkb.indicator show-flags true
- If you want disable it set back to false!
+   
+  If you want disable it set back to false!
  
  PROFIT!!!!
 
