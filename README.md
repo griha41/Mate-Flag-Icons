@@ -1,5 +1,5 @@
-# Mate-Lanuadges-Flags
-Language flags for MATE Desktop. Checked with Linux Mint 19.1
+# Mate Languages Flags
+Language flags for MATE Desktop. Checked with Linux Mint 19.1.
 <br>
 
 # Installation
