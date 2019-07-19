@@ -20,9 +20,9 @@ Language flags for MATE Desktop. Checked with Linux Mint 19.1.
  PROFIT!!!!
  
 # Checked on:
-Linux Mint 18.3
-Linux Mint 19.1
-GNU\Linux Debian 10 "Buster" )
+Linux Mint 18.3<br>
+Linux Mint 19.1<br>
+GNU\Linux Debian 10 "Buster" )<br>
 
 # Support
  If you check on other Linux-based OS, please report issue with header "Confirmed on ...".<br>
