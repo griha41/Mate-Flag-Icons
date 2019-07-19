@@ -18,7 +18,11 @@ Language flags for MATE Desktop. Checked with Linux Mint 19.1.
   If you want disable it set back to false!
  
  PROFIT!!!!
-
+ 
+# Checked on:
+Linux Mint 18.3
+Linux Mint 19.1
+GNU\Linux Debian 10 "Buster" )
 
 # Support
  If you check on other Linux-based OS, please report issue with header "Confirmed on ...".<br>
