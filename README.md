@@ -1,5 +1,5 @@
 # Mate Languages Flags
-Language flags for MATE Desktop. Checked with Linux Mint 19.1.
+Language flags for MATE Desktop. 
 <br>
 
 # Installation
@@ -22,7 +22,12 @@ Language flags for MATE Desktop. Checked with Linux Mint 19.1.
 # Checked on:
 Linux Mint 18.3<br>
 Linux Mint 19.1<br>
-GNU\Linux Debian 10 "Buster" )<br>
+Linux Mint 19.2<br>
+Linux Mint 19.3<br>
+GNU\Linux Debian 10 "Buster"<br>
+GNU\Linux Debian 10.1 "Buster"<br>
+GNU\Linux Debian 10.2 "Buster"<br>
+GNU\Linux Debian 10.3 "Buster"<br>
 
 # Support
  If you check on other Linux-based OS, please report issue with header "Confirmed on ...".<br>
