@@ -24,10 +24,19 @@ Linux Mint 18.3<br>
 Linux Mint 19.1<br>
 Linux Mint 19.2<br>
 Linux Mint 19.3<br>
+Linux Mint 20<br>
+Linux Mint 20.1<br>
 GNU\Linux Debian 10 "Buster"<br>
 GNU\Linux Debian 10.1 "Buster"<br>
 GNU\Linux Debian 10.2 "Buster"<br>
 GNU\Linux Debian 10.3 "Buster"<br>
+GNU\Linux Debian 10.4 "Buster"<br>
+GNU\Linux Debian 10.5 "Buster"<br>
+GNU\Linux Debian 10.6 "Buster"<br>
+GNU\Linux Debian 10.7 "Buster"<br>
+GNU\Linux Debian 10.8 "Buster"<br>
+GNU\Linux Debian 10.3 "Buster"<br>
+GNU\Linux openSUSE Tumbleweed<br>
 
 # Support
  If you check on other Linux-based OS, please report issue with header "Confirmed on ...".<br>
